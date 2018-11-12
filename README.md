@@ -172,7 +172,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 * Finally, deploy your Flask app to Heroku.
 
-- - -
+-
 
 ## Optional Challenge Assignment
 
