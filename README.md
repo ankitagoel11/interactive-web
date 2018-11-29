@@ -16,7 +16,6 @@ Use Flask to design an API for your dataset and to serve the HTML and JavaScript
 @app.route("/")
     """Return the dashboard homepage."""
 ```
-
 ```python
 @app.route('/names')
     """List of sample names.
@@ -35,7 +34,6 @@ Use Flask to design an API for your dataset and to serve the HTML and JavaScript
 
     """
 ```
-
 ```python
 @app.route('/otu')
     """List of OTU descriptions.
