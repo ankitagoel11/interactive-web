@@ -174,7 +174,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 ## Optional Challenge Assignment
 
-The following task is completely optional
+The following task is completely optional:
 
 * Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the Weekly Washing Frequency obtained from the route `/wfreq/<sample>`
 
@@ -196,6 +196,4 @@ The following task is completely optional
 
 * Use Pandas inside of your Flask routes to help format, filter, or sort the data before converting to JSON
 
-## Copyright
 
-Trilogy Education Services © 2017. All Rights Reserved.
